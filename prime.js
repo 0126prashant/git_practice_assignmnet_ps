@@ -1,3 +1,4 @@
+
 funnction prime(num){
   
 let counter = 0
@@ -22,4 +23,3 @@ for(let i=0;i<=20;i++){
   else {
       console.log(i,"is not a prime number" 
  }
-}
